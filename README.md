@@ -19,11 +19,21 @@ A list of resources about the Julia language
 
 - [Julia High Performance](https://juliahighperformance.com/)
 
-
 ## Libraries
+
+### Julia
 
 - [StaticArrays](https://github.com/JuliaArrays/StaticArrays.jl):
   Statically sized arrays for Julia
+
+### Python
+
+### Maple
+
+- [tens3d and tenssurf](http://jean.garrigues.perso.centrale-marseille.fr/tens3d.html):
+Maple and Mathematica packages for tensor calculation (including variant-covariant, Christoffel coefficients, differential operators…)
+
+
 
 <!-- Local Variables: -->
 <!-- fill-column: 80 -->

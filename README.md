@@ -12,12 +12,16 @@ A list of resources about the Julia language
 
 ### Videos
 
-- [Intro to Julia tutorial (version 1.0)](https://youtu.be/8h8rQyEpiZA)
+- [Intro to Julia tutorial (version 1.0) by Jane Herriman](https://youtu.be/8h8rQyEpiZA)
 - [Developing Julia Packages](https://youtu.be/QVmU29rCjaA)
 
 ### Books
 
 - [Julia High Performance](https://juliahighperformance.com/)
+
+### Jupyter notebooks
+
+- [JuliaBoxTutorials by Jane Herriman](https://github.com/xorJane/JuliaBoxTutorials)
 
 ## Libraries
 

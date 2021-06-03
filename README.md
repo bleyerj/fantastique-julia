@@ -38,7 +38,10 @@ A list of resources about the Julia language
 - [tens3d and tenssurf](http://jean.garrigues.perso.centrale-marseille.fr/tens3d.html):
 Maple and Mathematica packages for tensor calculation (including variant-covariant, Christoffel coefficients, differential operators…)
 
+### LaTeX
 
+- [juliaplots](https://github.com/sisl/juliaplots.sty]:
+  Integration of Julia code for plots inside `.tex` files
 
 <!-- Local Variables: -->
 <!-- fill-column: 80 -->

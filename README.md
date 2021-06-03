@@ -41,7 +41,7 @@ Maple and Mathematica packages for tensor calculation (including variant-covaria
 ### LaTeX
 
 - [juliaplots](https://github.com/sisl/juliaplots.sty):
-  Integration of Julia code for plots inside `.tex` files
+  This package makes it easy to integrate Julia code and plots into LaTeX documents
 
 <!-- Local Variables: -->
 <!-- fill-column: 80 -->

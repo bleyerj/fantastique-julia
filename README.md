@@ -15,6 +15,7 @@ A list of resources about the Julia language
 - [Intro to Julia tutorial (version 1.0) by Jane Herriman](https://youtu.be/8h8rQyEpiZA)
 - [Developing Julia Packages](https://youtu.be/QVmU29rCjaA)
 - [Automatic Differentiation with Julia](https://youtu.be/vAp6nUMrKYg)
+- [The Unreasonable Effectiveness of Multiple Dispatch](https://www.youtube.com/watch?v=kc9HwsxE1OY)
 
 ### Books
 

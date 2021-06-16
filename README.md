@@ -31,6 +31,8 @@ A list of resources about the Julia language
 
 - [StaticArrays](https://github.com/JuliaArrays/StaticArrays.jl):
   Statically sized arrays for Julia
+- [CxxWrap](https://youtu.be/u7IaXwKSUU0):
+  Creation of Julia packages relying on C++ libraries (equivalent to `Boost.Python` or `pybind11` for Python)
 
 ### Python
 

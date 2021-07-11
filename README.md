@@ -9,7 +9,7 @@ A list of resources about the Julia language
 - [Julia documentation](https://docs.julialang.org/)
 - [Modern Numerical Computing](http://courses.csail.mit.edu/18.337/2018/) (MIT 18.337/6.338)
 - [Multidimensional algorithms and iteration](https://julialang.org/blog/2016/02/iteration/)
-- [Type-dispatch-design \\( \neq \\) object-oriented programming language](http://www.stochasticlifestyle.com/type-dispatch-design-post-object-oriented-programming-julia/)
+- [Type-dispatch-design ≠ object-oriented programming language](http://www.stochasticlifestyle.com/type-dispatch-design-post-object-oriented-programming-julia/)
 
 ### Videos
 

@@ -87,6 +87,18 @@ A list of resources about the Julia language
 - [CxxWrap](https://youtu.be/u7IaXwKSUU0): Creation of Julia packages relying on
   C++ libraries (equivalent to `Boost.Python` or `pybind11` for Python)
 
+#### Plotting
+
+- [Plots](http://docs.juliaplots.org/latest/) – powerful convenience for
+  visualization in Julia.
+- [Makie](http://makie.juliaplots.org/stable/) is a high-performance,
+  extendable, and multi-platform plotting ecosystem for the Julia programming
+  language.
+- [PGFPlotsX](https://kristofferc.github.io/PGFPlotsX.jl/stable/) is a Julia
+  package for creating publication quality figures using the LaTeX library
+  PGFPlots as the backend. See also [this
+  video](https://www.youtube.com/watch?v=XHJ-u7PgBs8).
+
 #### Finite elements
 
 - [JuAFEM.jl](https://kristofferc.github.io/JuAFEM.jl/latest/) is a finite

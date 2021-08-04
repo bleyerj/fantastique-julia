@@ -28,12 +28,12 @@ A list of resources about the Julia language
 
 ## Libraries
 
-### Julia
+#### General purpose
 
 - [StaticArrays](https://github.com/JuliaArrays/StaticArrays.jl):
   Statically sized arrays for Julia
-- [CxxWrap](https://youtu.be/u7IaXwKSUU0):
-  Creation of Julia packages relying on C++ libraries (equivalent to `Boost.Python` or `pybind11` for Python)
+- [CxxWrap](https://youtu.be/u7IaXwKSUU0): Creation of Julia packages relying on
+  C++ libraries (equivalent to `Boost.Python` or `pybind11` for Python)
 
 #### Finite elements
 
@@ -51,14 +51,17 @@ A list of resources about the Julia language
   element discretizations, on structured and unstructured meshes of simplices
   and hexahedra.
 
-### Python
+### Sources of inspiration
 
-### Maple
+#### Python
+
+#### Maple
 
 - [tens3d and tenssurf](http://jean.garrigues.perso.centrale-marseille.fr/tens3d.html):
-Maple and Mathematica packages for tensor calculation (including variant-covariant, Christoffel coefficients, differential operators…)
+  Maple and Mathematica packages for tensor calculation (including
+  variant-covariant, Christoffel coefficients, differential operators…)
 
-### LaTeX
+#### LaTeX
 
 - [juliaplots](https://github.com/sisl/juliaplots.sty):
   This package makes it easy to integrate Julia code and plots into LaTeX documents

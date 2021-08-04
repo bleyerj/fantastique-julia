@@ -20,7 +20,59 @@ A list of resources about the Julia language
 
 ### Books
 
-- [Julia High Performance](https://juliahighperformance.com/)
+#### Julia High Performance
+
+[Link to publisher](https://juliahighperformance.com/)
+
+> The Julia programming language has brought an innovative new approach to
+> scientific computing, promising a combination of performance and productivity
+> that is not usually available in the current set of languages that is commonly
+> used. In solving the two- language problem, it has seen tremendous growth both
+> in academia and industry. It has been used in domains from robotics,
+> astronomy, and physics, to insurance and trading. It has particular relevance
+> in the area of machine learning, with increasing use for the emerging field of
+> differentiable computing.
+
+> Most new developers are attracted to the language due to its promise of high
+> performance. This book shows you how and why that is possible. We talk about
+> the design choices of the language's creators that allow such a
+> high-performance compiler to be built. We also show you the steps that you, as
+> an application developer, can take to ensure the highest possible performance
+> for your code. We also tell you the ways in which your code can work with the
+> compiler and runtime to fully utilize your hardware to the greatest extent
+> possible.
+
+> This book is for the beginner and intermediate Julia developer who wants to
+> fully leverage Julia's promise of performance with productivity. We assume you
+> are proficient with one or more programming languages and have some
+> familiarity with Julia's syntax. We do not expect you to be expert Julia
+> programmers yet but assume that you have written small Julia programs, or that
+> you have taken an introductory course on the language.
+
+#### Hands-On Design Patterns and Best Practices with Julia
+
+[Link to publisher](https://www.packtpub.com/product/hands-on-design-patterns-and-best-practices-with-julia/9781838648817)
+
+> Design patterns are fundamental techniques for developing reusable and
+> maintainable code. They provide a set of proven solutions that allow
+> developers to solve problems in software development quickly. This book will
+> demonstrate how to leverage design patterns with real-world applications.
+
+> Starting with an overview of design patterns and best practices in application
+> design, you'll learn about some of the most fundamental Julia features such as
+> modules, data types, functions/interfaces, and metaprogramming. You'll then
+> get to grips with the modern Julia design patterns for building large-scale
+> applications with a focus on performance, reusability, robustness, and
+> maintainability. The book also covers anti-patterns and how to avoid common
+> mistakes and pitfalls in development. You'll see how traditional
+> object-oriented patterns can be implemented differently and more effectively
+> in Julia. Finally, you'll explore various use cases and examples, such as how
+> expert Julia developers use design patterns in their open source packages.
+
+> By the end of this Julia programming book, you'll have learned methods to
+> improve software design, extensibility, and reusability, and be able to use
+> design patterns efficiently to overcome common challenges in software
+> development.
 
 ### Jupyter notebooks
 

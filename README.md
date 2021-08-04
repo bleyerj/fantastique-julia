@@ -35,6 +35,22 @@ A list of resources about the Julia language
 - [CxxWrap](https://youtu.be/u7IaXwKSUU0):
   Creation of Julia packages relying on C++ libraries (equivalent to `Boost.Python` or `pybind11` for Python)
 
+#### Finite elements
+
+- [JuAFEM.jl](https://kristofferc.github.io/JuAFEM.jl/latest/) is a finite
+  element toolbox that provides functionalities to implement finite element
+  analysis in Julia.
+- [Gridap.jl](https://gridap.github.io/Gridap.jl/stable/) provides a set of
+  tools for the grid-based approximation of partial differential equations
+  (PDEs) written in the Julia programming language. The main motivation behind
+  the development of this library is to provide an easy-to-use framework for the
+  development of complex PDE solvers in a dynamically typed style without
+  sacrificing the performance of statically typed languages. The library
+  currently supports linear and nonlinear PDE systems for scalar and vector
+  fields, single and multi-field problems, conforming and nonconforming finite
+  element discretizations, on structured and unstructured meshes of simplices
+  and hexahedra.
+
 ### Python
 
 ### Maple

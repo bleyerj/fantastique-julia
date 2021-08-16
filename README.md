@@ -86,6 +86,11 @@ A list of resources about the Julia language
   Statically sized arrays for Julia
 - [CxxWrap](https://youtu.be/u7IaXwKSUU0): Creation of Julia packages relying on
   C++ libraries (equivalent to `Boost.Python` or `pybind11` for Python)
+  
+#### Documentation
+
+- [Documenter](https://github.com/JuliaDocs/Documenter.jl.git): A documentation generator for Julia.
+- [DocStrings](https://github.com/miguelraz/DoctorDocstrings.jl.git): Diagnose the missing docstrings in your package. Copy paste from your REPL the smart inputs straight into your docstrings.
 
 #### Plotting
 

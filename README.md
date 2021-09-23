@@ -86,7 +86,7 @@ A list of resources about the Julia language
   Statically sized arrays for Julia
 - [CxxWrap](https://youtu.be/u7IaXwKSUU0): Creation of Julia packages relying on
   C++ libraries (equivalent to `Boost.Python` or `pybind11` for Python)
-  
+
 #### Documentation
 
 - [Documenter](https://github.com/JuliaDocs/Documenter.jl.git): A documentation generator for Julia.
@@ -119,6 +119,13 @@ A list of resources about the Julia language
   fields, single and multi-field problems, conforming and nonconforming finite
   element discretizations, on structured and unstructured meshes of simplices
   and hexahedra.
+
+#### Others
+
+- [BifurcationKit.jl](https://github.com/rveltz/BifurcationKit.jl) aims at
+  performing **automatic bifurcation analysis** of large dimensional equations
+  F(u, λ)=0 where λ∈ℝ by taking advantage of iterative methods, sparse
+  formulation and specific hardwares (e.g. GPU).
 
 ### Sources of inspiration
 

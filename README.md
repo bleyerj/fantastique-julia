@@ -126,6 +126,10 @@ A list of resources about the Julia language
   performing **automatic bifurcation analysis** of large dimensional equations
   F(u, λ)=0 where λ∈ℝ by taking advantage of iterative methods, sparse
   formulation and specific hardwares (e.g. GPU).
+  
+ - [JuMP.jl](https://jump.dev/) offers a modelling language for mathematical optimization.
+   It interacts with various convex optimization solvers for solving linear programming (LP),
+   second-order cone programming (SOCP), semi-definite programming (SDP), etc.
 
 ### Sources of inspiration
 
